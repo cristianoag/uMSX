@@ -1,0 +1,124 @@
+Partlist
+
+
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part      Value              Package                        Library                     Position (mm)         Orientation
+
+12V                          1X02                           pinhead                     (31.75 84.75)         R0
+R106      10                 M0805                          resistor                    (46.22 18.49)         R90
+R113      22                 M0805                          resistor                    (69.78 26.76)         R270
+RN133     100                CAY16                          resistor-dil                (100.03 60.665)       R270
+C1        2.2uf              C0805                          adafruit                    (36.67 10.07)         R90
+C3        100nf              C0805                          adafruit                    (79.15 67.05)         MR0
+C4        100nf              C0805                          adafruit                    (68.99 67.05)         MR270
+C5        100nf              C0805                          adafruit                    (65.18 67.05)         MR270
+C6        100nf              C0805                          adafruit                    (57.56 67.05)         MR270
+C7        100nf              C0805                          adafruit                    (55.02 45.46)         MR180
+C8        100nf              C0805                          adafruit                    (55.02 51.81)         MR180
+C9        100nf              C0805                          adafruit                    (55.02 58.16)         MR180
+C10       100nf              C0805                          adafruit                    (55.02 63.24)         MR180
+C13       100nf              C0805                          adafruit                    (76.03 3.78)          R270
+C14       100nf              C0805                          adafruit                    (62.465 75.705)       MR180
+C15       100nf              C0805                          adafruit                    (41.18 18.99)         R90
+C18       27pf               C0805                          adafruit                    (47.7 6.23)           R0
+C19       27pf               C0805                          adafruit                    (57.37 6.23)          R180
+C21       100nf              C0805                          adafruit                    (110.96 77.9)         R180
+C23       100nf              C0805                          adafruit                    (106.61 88.86)        R180
+C24       100nf              C0805                          adafruit                    (105.11 76.41)        R90
+C25       100nf              C0805                          adafruit                    (100.72 88.01)        R90
+C26       220uf              153CLV-0605                    adafruit                    (121.21 80.24)        R90
+C27       220uf              153CLV-0605                    adafruit                    (118.31 71.76)        R90
+C28       220uf              153CLV-0605                    adafruit                    (102.73 95.31)        R270
+C30       100nf              C0805                          adafruit                    (57.56 41.65)         MR90
+C31       100nf              C0805                          adafruit                    (63.91 41.65)         MR90
+C32       100nf              C0805                          adafruit                    (74.07 41.65)         MR90
+C33       100nf              C0805                          adafruit                    (79.15 41.65)         MR0
+C34       4.7uf              C0805                          adafruit                    (39.69 83.28)         R180
+C35       100nf              C0805                          adafruit                    (79.15 61.97)         MR0
+C36       100nf              C0805                          adafruit                    (79.15 55.62)         MR0
+C37       100nf              C0805                          adafruit                    (79.15 50.54)         MR0
+C134      100nf              C0805                          adafruit                    (79.15 45.46)         MR0
+CI8       220uf              153CLV-0605                    adafruit                    (107.96 56.19)        R180
+CI9       220uf              153CLV-0605                    adafruit                    (108.92 41.37)        R180
+CI10      220uf              153CLV-0605                    adafruit                    (103.71 34.54)        R180
+CI11      220uf              153CLV-0605                    adafruit                    (107.96 48.99)        R180
+CI16      220uf              153CLV-0605                    adafruit                    (108.17 63.49)        R180
+COMPOSITE RCA                RCA                            uzebox                      (120.7 44.79)         R270
+F1                           1812                           adafruit                    (120.07 86.58)        R180
+IC1       MT48LC16M16A2-6A   TSOP54-400                     memory-micron               (32.41 54.35)         R270
+IC2       3.3v               SOT223                         burr-brown                  (105.82 82.78)        R90
+IC3       1.5v               SOT223                         burr-brown                  (108.42 71.05)        R90
+IC5       NC7WV04P6X         SOT65P210X110-6AN_SC88_SC70-6  fairchild-tinylogic         (53.25 18.75)         R90 (ou SN74LVC2G04DCKR)
+J1        ATTEND-MICROSD-112 ATTEND-112                     sd-mmc                      (111.75 4.75)         R0
+J2        POWER_JACKPTH      POWER_JACK_PTH                 SparkFun-Connectors copy    (125.059103125 92.892028125) R90
+JP1                          2X05                           pinhead                     (67.51 3.8)           R180
+JP2                          1X02                           pinhead                     (113.68 86.23)        R180
+JP3                          2X25                           pinhead                     (65.25 95.75)         R180
+JP4                          2X05                           pinhead                     (43 29.5)             R270
+JP5                          SPARKFUN-CONNECTORS_AUDIO-JACK zxuno_v41                   (121.5 60)            R180
+LED1                         CHIP-LED0805                   adafruit                    (67.25 16.25)         R180
+LED2                         CHIP-LED0805                   adafruit                    (69 16.25)            R180
+LED3                         CHIP-LED0805                   adafruit                    (70.75 16.25)         R180
+LED4                         CHIP-LED0805                   adafruit                    (72.5 16.25)          R180
+LED5                         CHIP-LED0805                   adafruit                    (74.25 16.25)         R180
+LED6                         CHIP-LED0805                   adafruit                    (76 16.25)            R180
+LED7                         CHIP-LED0805                   adafruit                    (77.75 16.25)         R180
+LED8                         CHIP-LED0805                   adafruit                    (79.5 16.25)          R180
+LED9                         CHIP-LED0805                   adafruit                    (81.25 16.25)         R180
+PS2       MINI-DIN6PTH       MINI-DIN6                      SparkFun-Connectors         (124.75 28.96)        R270
+Q1        21.47727           HC49/S                         adafruit                    (53.09 11.35)         R180
+R4        100                M0805                          resistor                    (49.49 18.67)         R270
+R6        100                M0805                          resistor                    (56.45 18.83)         R90
+R7        1M                 M0805                          resistor                    (52.66 6.07)          R0
+R8        10k                M0805                          resistor                    (115.16 18.11)        R0
+R10       10k                M0805                          resistor                    (120.93 18.14)        R180
+R13A      1k                 M0805                          resistor                    (107.86 28.8)         R180
+R13B      1k                 M0805                          resistor                    (107.86 25.99)        R180
+R96       10                 M0805                          resistor                    (65.89 76.635)        MR270
+R122      1K                 R0603                          adafruit                    (46.13 37.84)         R90
+RN16      1K                 CAY16                          resistor-dil                (95.05 83.67)         R270
+RN94      10K                CAY16                          resistor-dil                (62.1 13.59)          R270
+RN95      200                CAY16                          resistor-dil                (93.1975 47.194375)   R270
+RN97      100                CAY16                          resistor-dil                (44.75 87.25)         R0
+RN98      100                CAY16                          resistor-dil                (48.75 30.25)         R0
+RN99      100                CAY16                          resistor-dil                (49.135 87.25)        R0
+RN100     100                CAY16                          resistor-dil                (53 30.25)            R0
+RN101     100                CAY16                          resistor-dil                (53.52 87.25)         R0
+RN103     100                CAY16                          resistor-dil                (57.905 87.25)        R0
+RN105     100                CAY16                          resistor-dil                (62.29 87.25)         R0
+RN107     200                CAY16                          resistor-dil                (93.084375 74.178125) R270
+RN108     100                CAY16                          resistor-dil                (99.76 47.27)         R270
+RN109     200                CAY16                          resistor-dil                (93.276875 42.273125) R270
+RN110     100                CAY16                          resistor-dil                (66.675 87.25)        R0
+RN111     1K                 CAY16                          resistor-dil                (74.329375 25.221875) R0
+RN112     100                CAY16                          resistor-dil                (71.06 87.25)         R0
+RN114     100                CAY16                          resistor-dil                (75.445 87.25)        R0
+RN115     100                CAY16                          resistor-dil                (83.75 25.25)         R0
+RN116     100                CAY16                          resistor-dil                (79.83 87.25)         R0
+RN117     100                CAY16                          resistor-dil                (88.185 25.31)        R0
+RN118     100                CAY16                          resistor-dil                (84.215 87.25)        R0
+RN119     100                CAY16                          resistor-dil                (93.095 27.785)       R90
+RN120     100                CAY16                          resistor-dil                (88.6 87.25)          R0
+RN121     100                CAY16                          resistor-dil                (100.335 27.115)      R90
+RN123     100                CAY16                          resistor-dil                (99.853125 42.249375) R270
+RN124     200                CAY16                          resistor-dil                (93.005 51.675)       R270
+RN125     1K                 CAY16                          resistor-dil                (79.06375 25.34875)   R0
+RN126     100                CAY16                          resistor-dil                (99.76 51.81)         R270
+RN127     100                CAY16                          resistor-dil                (99.734746875 74.093796875) R270
+RN128     200                CAY16                          resistor-dil                (92.985625 69.4275)   R270
+RN129     100                CAY16                          resistor-dil                (99.732221875 69.655228125) R270
+RN130     200                CAY16                          resistor-dil                (93.005 64.915)       R270
+RN131     100                CAY16                          resistor-dil                (99.9988125 65.01619375) R270
+RN132     200                CAY16                          resistor-dil                (93.005 60.7)         R270
+RN134     200                CAY16                          resistor-dil                (92.88 56.243125)     R270
+RN135     100                CAY16                          resistor-dil                (99.72563125 56.380725) R270
+RN152     100                CAY16                          resistor-dil                (93.25 34.785)        R90
+S1                           B3F-31XX                       adafruit                    (40.64 3.55)          R0
+SW1                          EDG-08                         special                     (90.62 6.05)          R0
+U$1       EP1C12Q240C8N      QFP50P3460X3460X410-240N       Altera_By_element14_Batch_1 (67.72 54.35)         R90
+U1        EPCS4N             SOIC127P600X175-8N             Altera_By_element14_Batch_1 (65.26 22.69)         R90
+U2        953BFP             SOIC127P600X175-8N             Altera_By_element14_Batch_1 (42 10.5)             R90
