@@ -13,6 +13,6 @@ Heavily based on 0603 SMT resistance arrays, and other 0805 SMT components, the 
 
 * Original thread (in Spanish) with details about the project [uMSX: Clon MSX2+ FPGA](https://www.va-de-retro.com/foros/viewtopic.php?f=63&t=6655)
 
-* Article (in English) with details on how to build, BoM, tips and tricks [Yet another FPGA based MSX (The uMSX)](http://theretrohacker.com/2022/07/07/yet-another-fpga-based-msx-the-umsx/)
+* Article (in English) with details on how to build, BoM, tips and tricks [Yet another FPGA based MSX (The uMSX)](http://theretrohacker.com/2022/07/08/yet-another-fpga-based-msx-the-umsx/)
 
 * Youtube video (in Portuguese) with additional details **Coming soon**
