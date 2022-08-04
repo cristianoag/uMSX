@@ -15,4 +15,4 @@ Heavily based on 0603 SMT resistance arrays, and other 0805 SMT components, the 
 
 * Article (in English) with details on how to build, BoM, tips and tricks [Yet another FPGA based MSX (The uMSX)](http://theretrohacker.com/2022/07/08/yet-another-fpga-based-msx-the-umsx/)
 
-* Youtube video (in Portuguese) with additional details **Coming soon**
+* Youtube video (in Portuguese) with additional details [YouTube Video](https://www.youtube.com/watch?v=aj3B5qDagoM)
