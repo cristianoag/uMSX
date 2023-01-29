@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.1mm"
+   height="29.999992mm"
+   viewBox="0 0 116.09999 29.999992"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="uMSX_Case_Back.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#c3c3c3"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0888418"
+     inkscape:cx="115.61431"
+     inkscape:cy="61.756711"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.562785,-145.87703)">
+    <g
+       id="g828">
+      <path
+         d="m 46.615396,145.92964 v 10.38013 h 2.999866 v 9.13451 h -2.999866 v 9.13452 1.24561 h 12.624433 v -3.32163 h 8.249628 v 3.32163 h 8.249629 v -3.32163 h 8.249629 v 3.32163 h 8.249628 v -3.32163 h 8.249627 v 3.32163 h 8.24964 v -3.32163 h 8.24962 v 3.32163 h 8.24964 v -3.32163 h 8.24962 v 3.32163 h 8.24963 v -3.32163 h 8.24963 v 3.32163 h 8.24962 4.3748 v -10.38013 h -2.99986 v -9.13451 h 2.99986 v -9.13452 -1.24561 h -12.62442 v 3.32163 h -8.24963 v -3.32163 h -8.24963 v 3.32163 h -8.24962 v -3.32163 h -8.24964 v 3.32163 h -8.24962 v -3.32163 h -8.24964 v 3.32163 h -8.249627 v -3.32163 h -8.249628 v 3.32163 h -8.249629 v -3.32163 h -8.249629 v 3.32163 h -8.249628 v -3.32163 H 50.9902 Z"
+         id="back_outsideCutPath"
+         stroke="#FF0000"
+         stroke-width="0.1"
+         style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.105222;stroke-linecap:round"
+         vector-effect="non-scaling-stroke" />
+      <rect
+         style="opacity:0.41433;fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.181693;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stop-color:#000000"
+         id="rect11532"
+         width="68.818314"
+         height="16.818306"
+         x="59.653633"
+         y="152.46788"
+         ry="4.1625466" />
+    </g>
+  </g>
+</svg>
