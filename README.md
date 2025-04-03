@@ -1,7 +1,7 @@
 # uMSX
 The uMSX is a MSX2+ FPGA implementation that basically mimics the 1ChipMSX (one of the first FPGA based MSX2+ one chip MSX computers commercially available).
 
-PCB created by BCH. 
+**Please note that the PCB for this project was created by BCH and includes a label explicitly stating that commercial distribution of this work is prohibited. Unfortunately, there have been reports of unauthorized sales of this computer on platforms like Tindie. We kindly ask you to support and reward the original creators of this project, who have generously shared their work with the retro community, rather than those engaging in unauthorized distribution. Thank you for respecting the creators' efforts and intentions.**
 
 The VHDL used is the well known [KDL PLD implementation for the MSX2+](https://github.com/gnogni/ocm-pld-dev) used by the vast majority of the FPGA based MSX computers known. The uMSX uses the first generation of the KDL VHDL source, also known by esemsx.
 
